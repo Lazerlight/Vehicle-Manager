@@ -1,0 +1,12 @@
+C:\VehicleManagerApplication\Forms.exe
+C:\VehicleManagerApplication\Forms.dll
+C:\VehicleManagerApplication\Forms.deps.json
+C:\VehicleManagerApplication\Forms.runtimeconfig.json
+C:\VehicleManagerApplication\Forms.pdb
+C:\VehicleManagerApplication\System.Data.SqlClient.dll
+C:\VehicleManagerApplication\runtimes\win-arm64\native\sni.dll
+C:\VehicleManagerApplication\runtimes\win-x64\native\sni.dll
+C:\VehicleManagerApplication\runtimes\win-x86\native\sni.dll
+C:\VehicleManagerApplication\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\VehicleManagerApplication\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\VehicleManagerApplication\Microsoft.Office.Interop.Access.Dao.dll

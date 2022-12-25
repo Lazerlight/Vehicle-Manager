@@ -1,0 +1,84 @@
+C:\Demos\VehicleManager\Forms\bin\Release\net6.0-windows\Forms.exe
+C:\Demos\VehicleManager\Forms\bin\Release\net6.0-windows\Forms.deps.json
+C:\Demos\VehicleManager\Forms\bin\Release\net6.0-windows\Forms.runtimeconfig.json
+C:\Demos\VehicleManager\Forms\bin\Release\net6.0-windows\Forms.dll
+C:\Demos\VehicleManager\Forms\bin\Release\net6.0-windows\Forms.pdb
+C:\Demos\VehicleManager\Forms\bin\Release\net6.0-windows\System.Data.SqlClient.dll
+C:\Demos\VehicleManager\Forms\bin\Release\net6.0-windows\runtimes\win-arm64\native\sni.dll
+C:\Demos\VehicleManager\Forms\bin\Release\net6.0-windows\runtimes\win-x64\native\sni.dll
+C:\Demos\VehicleManager\Forms\bin\Release\net6.0-windows\runtimes\win-x86\native\sni.dll
+C:\Demos\VehicleManager\Forms\bin\Release\net6.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Demos\VehicleManager\Forms\bin\Release\net6.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Demos\VehicleManager\Forms\obj\Release\net6.0-windows\Forms.csproj.AssemblyReference.cache
+C:\Demos\VehicleManager\Forms\obj\Release\net6.0-windows\WinFormsApp1.CarViewerCreate.resources
+C:\Demos\VehicleManager\Forms\obj\Release\net6.0-windows\WinFormsApp1.CarViewerTable.resources
+C:\Demos\VehicleManager\Forms\obj\Release\net6.0-windows\WinFormsApp1.CarViewerView.resources
+C:\Demos\VehicleManager\Forms\obj\Release\net6.0-windows\WinFormsApp1.MainForm.resources
+C:\Demos\VehicleManager\Forms\obj\Release\net6.0-windows\Forms.csproj.GenerateResource.cache
+C:\Demos\VehicleManager\Forms\obj\Release\net6.0-windows\Forms.GeneratedMSBuildEditorConfig.editorconfig
+C:\Demos\VehicleManager\Forms\obj\Release\net6.0-windows\Forms.AssemblyInfoInputs.cache
+C:\Demos\VehicleManager\Forms\obj\Release\net6.0-windows\Forms.AssemblyInfo.cs
+C:\Demos\VehicleManager\Forms\obj\Release\net6.0-windows\Forms.csproj.CoreCompileInputs.cache
+C:\Demos\VehicleManager\Forms\obj\Release\net6.0-windows\Forms.csproj.CopyComplete
+C:\Demos\VehicleManager\Forms\obj\Release\net6.0-windows\Forms.dll
+C:\Demos\VehicleManager\Forms\obj\Release\net6.0-windows\refint\Forms.dll
+C:\Demos\VehicleManager\Forms\obj\Release\net6.0-windows\Forms.pdb
+C:\Demos\VehicleManager\Forms\obj\Release\net6.0-windows\Forms.genruntimeconfig.cache
+C:\Demos\VehicleManager\Forms\obj\Release\net6.0-windows\ref\Forms.dll
+C:\Demos\VehicleManager\Forms\bin\Release\net6.0-windows\Microsoft.Office.Interop.Access.Dao.dll
+C:\Demos\VehicleManager\Forms\obj\Release\net6.0-windows\WinFormsApp1.CarViewerForm.resources
+F:\Development RESERVE PROJECTS\VehicleManager\Forms\bin\Release\net6.0-windows\Forms.exe
+F:\Development RESERVE PROJECTS\VehicleManager\Forms\bin\Release\net6.0-windows\Forms.deps.json
+F:\Development RESERVE PROJECTS\VehicleManager\Forms\bin\Release\net6.0-windows\Forms.runtimeconfig.json
+F:\Development RESERVE PROJECTS\VehicleManager\Forms\bin\Release\net6.0-windows\Forms.dll
+F:\Development RESERVE PROJECTS\VehicleManager\Forms\bin\Release\net6.0-windows\Forms.pdb
+F:\Development RESERVE PROJECTS\VehicleManager\Forms\bin\Release\net6.0-windows\System.Data.SqlClient.dll
+F:\Development RESERVE PROJECTS\VehicleManager\Forms\bin\Release\net6.0-windows\runtimes\win-arm64\native\sni.dll
+F:\Development RESERVE PROJECTS\VehicleManager\Forms\bin\Release\net6.0-windows\runtimes\win-x64\native\sni.dll
+F:\Development RESERVE PROJECTS\VehicleManager\Forms\bin\Release\net6.0-windows\runtimes\win-x86\native\sni.dll
+F:\Development RESERVE PROJECTS\VehicleManager\Forms\bin\Release\net6.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+F:\Development RESERVE PROJECTS\VehicleManager\Forms\bin\Release\net6.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+F:\Development RESERVE PROJECTS\VehicleManager\Forms\obj\Release\net6.0-windows\Forms.csproj.AssemblyReference.cache
+F:\Development RESERVE PROJECTS\VehicleManager\Forms\obj\Release\net6.0-windows\WinFormsApp1.CarViewerCreate.resources
+F:\Development RESERVE PROJECTS\VehicleManager\Forms\obj\Release\net6.0-windows\WinFormsApp1.CarViewerTable.resources
+F:\Development RESERVE PROJECTS\VehicleManager\Forms\obj\Release\net6.0-windows\WinFormsApp1.CarViewerView.resources
+F:\Development RESERVE PROJECTS\VehicleManager\Forms\obj\Release\net6.0-windows\WinFormsApp1.MainForm.resources
+F:\Development RESERVE PROJECTS\VehicleManager\Forms\obj\Release\net6.0-windows\Forms.csproj.GenerateResource.cache
+F:\Development RESERVE PROJECTS\VehicleManager\Forms\obj\Release\net6.0-windows\Forms.GeneratedMSBuildEditorConfig.editorconfig
+F:\Development RESERVE PROJECTS\VehicleManager\Forms\obj\Release\net6.0-windows\Forms.AssemblyInfoInputs.cache
+F:\Development RESERVE PROJECTS\VehicleManager\Forms\obj\Release\net6.0-windows\Forms.AssemblyInfo.cs
+F:\Development RESERVE PROJECTS\VehicleManager\Forms\obj\Release\net6.0-windows\Forms.csproj.CoreCompileInputs.cache
+F:\Development RESERVE PROJECTS\VehicleManager\Forms\obj\Release\net6.0-windows\Forms.csproj.CopyComplete
+F:\Development RESERVE PROJECTS\VehicleManager\Forms\obj\Release\net6.0-windows\Forms.dll
+F:\Development RESERVE PROJECTS\VehicleManager\Forms\obj\Release\net6.0-windows\refint\Forms.dll
+F:\Development RESERVE PROJECTS\VehicleManager\Forms\obj\Release\net6.0-windows\Forms.pdb
+F:\Development RESERVE PROJECTS\VehicleManager\Forms\obj\Release\net6.0-windows\Forms.genruntimeconfig.cache
+F:\Development RESERVE PROJECTS\VehicleManager\Forms\obj\Release\net6.0-windows\ref\Forms.dll
+E:\Development RESERVE PROJECTS\VehicleManager\Forms\obj\Release\net6.0-windows\Forms.dll
+E:\Development RESERVE PROJECTS\VehicleManager\Forms\obj\Release\net6.0-windows\refint\Forms.dll
+E:\Development RESERVE PROJECTS\VehicleManager\Forms\obj\Release\net6.0-windows\Forms.pdb
+E:\Development RESERVE PROJECTS\VehicleManager\Forms\bin\Release\net6.0-windows\Forms.exe
+E:\Development RESERVE PROJECTS\VehicleManager\Forms\bin\Release\net6.0-windows\Forms.deps.json
+E:\Development RESERVE PROJECTS\VehicleManager\Forms\bin\Release\net6.0-windows\Forms.runtimeconfig.json
+E:\Development RESERVE PROJECTS\VehicleManager\Forms\bin\Release\net6.0-windows\Forms.dll
+E:\Development RESERVE PROJECTS\VehicleManager\Forms\bin\Release\net6.0-windows\Forms.pdb
+E:\Development RESERVE PROJECTS\VehicleManager\Forms\bin\Release\net6.0-windows\System.Data.SqlClient.dll
+E:\Development RESERVE PROJECTS\VehicleManager\Forms\bin\Release\net6.0-windows\runtimes\win-arm64\native\sni.dll
+E:\Development RESERVE PROJECTS\VehicleManager\Forms\bin\Release\net6.0-windows\runtimes\win-x64\native\sni.dll
+E:\Development RESERVE PROJECTS\VehicleManager\Forms\bin\Release\net6.0-windows\runtimes\win-x86\native\sni.dll
+E:\Development RESERVE PROJECTS\VehicleManager\Forms\bin\Release\net6.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+E:\Development RESERVE PROJECTS\VehicleManager\Forms\bin\Release\net6.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+E:\Development RESERVE PROJECTS\VehicleManager\Forms\obj\Release\net6.0-windows\Forms.csproj.AssemblyReference.cache
+E:\Development RESERVE PROJECTS\VehicleManager\Forms\obj\Release\net6.0-windows\WinFormsApp1.CarViewerCreate.resources
+E:\Development RESERVE PROJECTS\VehicleManager\Forms\obj\Release\net6.0-windows\WinFormsApp1.CarViewerForm.resources
+E:\Development RESERVE PROJECTS\VehicleManager\Forms\obj\Release\net6.0-windows\WinFormsApp1.CarViewerTable.resources
+E:\Development RESERVE PROJECTS\VehicleManager\Forms\obj\Release\net6.0-windows\WinFormsApp1.CarViewerView.resources
+E:\Development RESERVE PROJECTS\VehicleManager\Forms\obj\Release\net6.0-windows\WinFormsApp1.MainForm.resources
+E:\Development RESERVE PROJECTS\VehicleManager\Forms\obj\Release\net6.0-windows\Forms.csproj.GenerateResource.cache
+E:\Development RESERVE PROJECTS\VehicleManager\Forms\obj\Release\net6.0-windows\Forms.GeneratedMSBuildEditorConfig.editorconfig
+E:\Development RESERVE PROJECTS\VehicleManager\Forms\obj\Release\net6.0-windows\Forms.AssemblyInfoInputs.cache
+E:\Development RESERVE PROJECTS\VehicleManager\Forms\obj\Release\net6.0-windows\Forms.AssemblyInfo.cs
+E:\Development RESERVE PROJECTS\VehicleManager\Forms\obj\Release\net6.0-windows\Forms.csproj.CoreCompileInputs.cache
+E:\Development RESERVE PROJECTS\VehicleManager\Forms\obj\Release\net6.0-windows\Forms.csproj.CopyComplete
+E:\Development RESERVE PROJECTS\VehicleManager\Forms\obj\Release\net6.0-windows\Forms.genruntimeconfig.cache
+E:\Development RESERVE PROJECTS\VehicleManager\Forms\obj\Release\net6.0-windows\ref\Forms.dll
